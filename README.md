@@ -1,4 +1,4 @@
-# 📊 Marketing Mix Modeling (MMM): COVID-19 Impact Analysis  
+# 📊 Marketing Mix Modeling (MMM): COVID-19 Impact Analysis For Ekimetrics
 *ROI Optimization & Media Performance Attribution (2019-2020)*
 
 ---
